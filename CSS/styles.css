@@ -184,7 +184,7 @@ header.abajo {
     transition: .3s;
 }
 
-.gallery img:hover{
+.gallery img:hover {
     opacity: 0.8;
 }
 
@@ -468,6 +468,7 @@ header.abajo {
     .hero-image {
         width: 100vw;
         height: 100vh;
+        margin-top: 0;
     }
 
     .hero-image2 {
